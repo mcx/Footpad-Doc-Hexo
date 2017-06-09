@@ -70,7 +70,7 @@ theme: tranquilpeak
 deploy:
   type: netlify
   token: 78ce15a22edc16249ee2b83c0777172e2f932b4cfd0132257cd4994c533184e6
-  site_id: 1015bbd1-13ed-464b-b549-065abfa01bfb
+  site_id: b5fb89cc-7acd-42d9-9504-24f8413dae58
 
 # RSS feed
 ## https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md
