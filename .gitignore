@@ -45,9 +45,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-# /public
-# /node_modules
+
+# =========================
+# Hexo specific gitignores
+# =========================
+*.log
+.deploy*/
+node_modules/
 
 # db.json messes up on hexo generate, but is fixed when using hexo deploy?
 db.json
+ 
+# gitignore of public folder messes up netlify continuous deployment with clean cache
+# public/
 
