@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Michael Chuah MIT</title>
+  <title>Michael Chuah</title>
   <subtitle>mcx subtitle</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -9,7 +9,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Marwa!</name>
+    <name>Michael</name>
     
   </author>
   
