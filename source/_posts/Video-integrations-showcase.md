@@ -22,6 +22,8 @@ Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course
 
 **Step 2: Force Data Collection**
 
+{% youtube Z34WE9fkKkQ %}
+
 **Step 3:**
 
 
