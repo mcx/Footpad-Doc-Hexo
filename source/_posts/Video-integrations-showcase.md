@@ -22,9 +22,7 @@ Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course
 
 **Step 2: Force Data Collection**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z34WE9fkKkQ" frameborder="0" allowfullscreen></iframe>
-
-**Step 3:**
+{% youtube Z34WE9fkKkQ %}
 
 
 **Vimeo**
