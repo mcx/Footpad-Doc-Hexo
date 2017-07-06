@@ -1,7 +1,7 @@
 title: Step by Step Footpad Process Videos
 date: 2014-08-09 20:30:05
 thumbnailImagePosition: left
-thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/video-integration-showcase/peak-140.jpg
+thumbnailImage: [Imgur](http://i.imgur.com/aVMsCdI.jpg)
 categories:
 - tranquilpeak
 - features
@@ -12,7 +12,7 @@ tags:
 - dailymotion
 ---
 
-Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.
+Below are video tutorials of footpad mold fabrication and data collection using CNC machine. 
 <!--more-->
 
 
@@ -23,8 +23,3 @@ Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course
 **Step 2: Force Data Collection**
 
 {% youtube Z34WE9fkKkQ %}
-
-
-**Vimeo**
-
-{% vimeo 17877190 %}
