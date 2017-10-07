@@ -2,7 +2,7 @@
 title: "Image gallery showcase"
 date: 2013-02-18 20:30:05
 thumbnailImagePosition: left
-thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/image-gallery-showcase/Cat.jpeg
+thumbnailImage: Cat.jpeg
 photos:
 - http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg "Mercedes"
 - http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg "Lamborghini"
