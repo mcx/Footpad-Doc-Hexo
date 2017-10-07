@@ -18,5 +18,5 @@ tags:
 - image gallery
 ---
 
-And here is the image gallery!
+Image Gallery
 <!-- more -->
