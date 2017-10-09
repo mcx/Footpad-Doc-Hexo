@@ -14,7 +14,9 @@ timezone: EST
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://footpad.netlify.com
 root: /
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/
+# https://hexo.io/docs/permalinks.html
+permalink: :title/
 permalink_defaults:
 
 # Directory
