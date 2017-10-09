@@ -13,6 +13,7 @@ photos:
 - http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4.jpg "Ferrari"
 - http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26.jpg "Lamborghini"
 - http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg
+- /images/cat-pet-animal-domestic-104827.jpeg "Cat"
 categories:
 - tranquilpeak
 - features
