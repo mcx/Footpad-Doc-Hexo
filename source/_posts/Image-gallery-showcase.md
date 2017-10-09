@@ -18,8 +18,7 @@ photos:
 - grief-and-loss.jpg grief-and-loss.jpg "Cat 2"
 - https://ps.w.org/meta-tag-manager/assets/screenshot-1.png "Random pic"
 - http://i.imgur.com/aVMsCdI.jpg "Thumbnail"
-- https://imgur.com/a/SNYI1
-- https://i.imgur.com/81evK1J.jpg 
+- test.jpg
 
 
 categories:
