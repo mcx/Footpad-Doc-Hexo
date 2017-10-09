@@ -15,6 +15,7 @@ photos:
 - http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg
 - cat-pet-animal-domestic-104827.jpeg "Cat"
 - grief-and-loss.jpg grief-and-loss.jpg "Cat 2"
+- https://ps.w.org/meta-tag-manager/assets/screenshot-1.png "Random pic"
 
 categories:
 - tranquilpeak
