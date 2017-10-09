@@ -2,7 +2,7 @@
 title: "Image gallery showcase"
 date: 2013-02-18 20:30:05
 thumbnailImagePosition: left
-thumbnailImage: ![Imgur](http://i.imgur.com/aVMsCdI.jpg)
+thumbnailImage: http://i.imgur.com/aVMsCdI.jpg
 #thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/image-gallery-showcase/city-140.jpg
 
 
