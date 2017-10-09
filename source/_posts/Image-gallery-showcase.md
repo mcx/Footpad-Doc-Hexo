@@ -17,6 +17,7 @@ photos:
 - cat-pet-animal-domestic-104827.jpeg "Cat"
 - grief-and-loss.jpg grief-and-loss.jpg "Cat 2"
 - https://ps.w.org/meta-tag-manager/assets/screenshot-1.png "Random pic"
+- http://i.imgur.com/aVMsCdI.jpg "Thumbnail"
 
 categories:
 - tranquilpeak
