@@ -4,9 +4,9 @@
   <subtitle>mcx subtitle</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://footpad.netlify.com/"/>
   <updated>2016-03-12T11:31:17.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://footpad.netlify.com/</id>
   
   <author>
     <name>Michael</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Welcome to Tranquilpeak 1.7</title>
-    <link href="http://yoursite.com/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
-    <id>http://yoursite.com/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
+    <link href="http://footpad.netlify.com/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
+    <id>http://footpad.netlify.com/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
     <published>2015-06-16T01:30:05.000Z</published>
     <updated>2016-03-12T11:31:17.000Z</updated>
     
@@ -100,29 +100,29 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://yoursite.com/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://footpad.netlify.com/categories/tranquilpeak/"/>
     
-      <category term="releases" scheme="http://yoursite.com/categories/tranquilpeak/releases/"/>
+      <category term="releases" scheme="http://footpad.netlify.com/categories/tranquilpeak/releases/"/>
     
     
-      <category term="hexo theme" scheme="http://yoursite.com/tags/hexo-theme/"/>
+      <category term="hexo theme" scheme="http://footpad.netlify.com/tags/hexo-theme/"/>
     
-      <category term="responsive" scheme="http://yoursite.com/tags/responsive/"/>
+      <category term="responsive" scheme="http://footpad.netlify.com/tags/responsive/"/>
     
-      <category term="swiftype" scheme="http://yoursite.com/tags/swiftype/"/>
+      <category term="swiftype" scheme="http://footpad.netlify.com/tags/swiftype/"/>
     
-      <category term="gravatar" scheme="http://yoursite.com/tags/gravatar/"/>
+      <category term="gravatar" scheme="http://footpad.netlify.com/tags/gravatar/"/>
     
-      <category term="disqus" scheme="http://yoursite.com/tags/disqus/"/>
+      <category term="disqus" scheme="http://footpad.netlify.com/tags/disqus/"/>
     
-      <category term="google analytics" scheme="http://yoursite.com/tags/google-analytics/"/>
+      <category term="google analytics" scheme="http://footpad.netlify.com/tags/google-analytics/"/>
     
   </entry>
   
   <entry>
     <title>Elements-showcase</title>
-    <link href="http://yoursite.com/2015/05/28/Elements-showcase/"/>
-    <id>http://yoursite.com/2015/05/28/Elements-showcase/</id>
+    <link href="http://footpad.netlify.com/2015/05/28/Elements-showcase/"/>
+    <id>http://footpad.netlify.com/2015/05/28/Elements-showcase/</id>
     <published>2015-05-29T01:30:05.000Z</published>
     <updated>2017-06-29T19:37:22.089Z</updated>
     
@@ -182,21 +182,21 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://yoursite.com/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://footpad.netlify.com/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://yoursite.com/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://footpad.netlify.com/categories/tranquilpeak/features/"/>
     
     
-      <category term="html elements" scheme="http://yoursite.com/tags/html-elements/"/>
+      <category term="html elements" scheme="http://footpad.netlify.com/tags/html-elements/"/>
     
-      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+      <category term="markdown" scheme="http://footpad.netlify.com/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>Cover image showcase</title>
-    <link href="http://yoursite.com/2015/05/13/Cover-image-showcase/"/>
-    <id>http://yoursite.com/2015/05/13/Cover-image-showcase/</id>
+    <link href="http://footpad.netlify.com/2015/05/13/Cover-image-showcase/"/>
+    <id>http://footpad.netlify.com/2015/05/13/Cover-image-showcase/</id>
     <published>2015-05-14T01:30:05.000Z</published>
     <updated>2016-03-12T11:31:17.000Z</updated>
     
@@ -211,19 +211,19 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://yoursite.com/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://footpad.netlify.com/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://yoursite.com/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://footpad.netlify.com/categories/tranquilpeak/features/"/>
     
     
-      <category term="cover image" scheme="http://yoursite.com/tags/cover-image/"/>
+      <category term="cover image" scheme="http://footpad.netlify.com/tags/cover-image/"/>
     
   </entry>
   
   <entry>
     <title>highlighted code showcase</title>
-    <link href="http://yoursite.com/2015/03/23/highlighted-code-showcase/"/>
-    <id>http://yoursite.com/2015/03/23/highlighted-code-showcase/</id>
+    <link href="http://footpad.netlify.com/2015/03/23/highlighted-code-showcase/"/>
+    <id>http://footpad.netlify.com/2015/03/23/highlighted-code-showcase/</id>
     <published>2015-03-24T01:30:05.000Z</published>
     <updated>2016-03-12T11:31:17.000Z</updated>
     
@@ -266,21 +266,21 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://yoursite.com/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://footpad.netlify.com/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://yoursite.com/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://footpad.netlify.com/categories/tranquilpeak/features/"/>
     
     
-      <category term="highlight code" scheme="http://yoursite.com/tags/highlight-code/"/>
+      <category term="highlight code" scheme="http://footpad.netlify.com/tags/highlight-code/"/>
     
-      <category term="github theme" scheme="http://yoursite.com/tags/github-theme/"/>
+      <category term="github theme" scheme="http://footpad.netlify.com/tags/github-theme/"/>
     
   </entry>
   
   <entry>
     <title>Tags plugins showcase</title>
-    <link href="http://yoursite.com/2014/10/29/Tags-plugins-showcase/"/>
-    <id>http://yoursite.com/2014/10/29/Tags-plugins-showcase/</id>
+    <link href="http://footpad.netlify.com/2014/10/29/Tags-plugins-showcase/"/>
+    <id>http://footpad.netlify.com/2014/10/29/Tags-plugins-showcase/</id>
     <published>2014-10-30T01:30:05.000Z</published>
     <updated>2016-03-12T11:31:17.000Z</updated>
     
@@ -392,14 +392,14 @@
     </summary>
     
     
-      <category term="tag plugins" scheme="http://yoursite.com/tags/tag-plugins/"/>
+      <category term="tag plugins" scheme="http://footpad.netlify.com/tags/tag-plugins/"/>
     
   </entry>
   
   <entry>
     <title>Step by Step Footpad Process Videos</title>
-    <link href="http://yoursite.com/2014/08/09/Video-integrations-showcase/"/>
-    <id>http://yoursite.com/2014/08/09/Video-integrations-showcase/</id>
+    <link href="http://footpad.netlify.com/2014/08/09/Video-integrations-showcase/"/>
+    <id>http://footpad.netlify.com/2014/08/09/Video-integrations-showcase/</id>
     <published>2014-08-10T01:30:05.000Z</published>
     <updated>2017-07-14T15:09:37.180Z</updated>
     
@@ -416,25 +416,25 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://yoursite.com/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://footpad.netlify.com/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://yoursite.com/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://footpad.netlify.com/categories/tranquilpeak/features/"/>
     
     
-      <category term="videos integration" scheme="http://yoursite.com/tags/videos-integration/"/>
+      <category term="videos integration" scheme="http://footpad.netlify.com/tags/videos-integration/"/>
     
-      <category term="youtube" scheme="http://yoursite.com/tags/youtube/"/>
+      <category term="youtube" scheme="http://footpad.netlify.com/tags/youtube/"/>
     
-      <category term="vimeo" scheme="http://yoursite.com/tags/vimeo/"/>
+      <category term="vimeo" scheme="http://footpad.netlify.com/tags/vimeo/"/>
     
-      <category term="dailymotion" scheme="http://yoursite.com/tags/dailymotion/"/>
+      <category term="dailymotion" scheme="http://footpad.netlify.com/tags/dailymotion/"/>
     
   </entry>
   
   <entry>
     <title>中文測試</title>
-    <link href="http://yoursite.com/2013/10/03/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
-    <id>http://yoursite.com/2013/10/03/中文測試/</id>
+    <link href="http://footpad.netlify.com/2013/10/03/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
+    <id>http://footpad.netlify.com/2013/10/03/中文測試/</id>
     <published>2013-10-03T04:31:30.000Z</published>
     <updated>2016-03-12T11:31:17.000Z</updated>
     
@@ -455,21 +455,21 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://yoursite.com/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://footpad.netlify.com/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://yoursite.com/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://footpad.netlify.com/categories/tranquilpeak/features/"/>
     
     
-      <category term="chinese" scheme="http://yoursite.com/tags/chinese/"/>
+      <category term="chinese" scheme="http://footpad.netlify.com/tags/chinese/"/>
     
   </entry>
   
   <entry>
     <title>Image gallery showcase</title>
-    <link href="http://yoursite.com/2013/02/18/Image-gallery-showcase/"/>
-    <id>http://yoursite.com/2013/02/18/Image-gallery-showcase/</id>
+    <link href="http://footpad.netlify.com/2013/02/18/Image-gallery-showcase/"/>
+    <id>http://footpad.netlify.com/2013/02/18/Image-gallery-showcase/</id>
     <published>2013-02-19T01:30:05.000Z</published>
-    <updated>2017-10-09T18:44:23.076Z</updated>
+    <updated>2017-10-09T18:49:17.440Z</updated>
     
     <content type="html"><![CDATA[<p>Image Gallery<br><a id="more"></a></p>
 ]]></content>
@@ -480,19 +480,19 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://yoursite.com/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://footpad.netlify.com/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://yoursite.com/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://footpad.netlify.com/categories/tranquilpeak/features/"/>
     
     
-      <category term="image gallery" scheme="http://yoursite.com/tags/image-gallery/"/>
+      <category term="image gallery" scheme="http://footpad.netlify.com/tags/image-gallery/"/>
     
   </entry>
   
   <entry>
     <title>日本語テスト</title>
-    <link href="http://yoursite.com/2013/01/02/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
-    <id>http://yoursite.com/2013/01/02/日本語テスト/</id>
+    <link href="http://footpad.netlify.com/2013/01/02/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
+    <id>http://footpad.netlify.com/2013/01/02/日本語テスト/</id>
     <published>2013-01-03T04:30:04.000Z</published>
     <updated>2016-03-12T11:31:17.000Z</updated>
     
@@ -512,19 +512,19 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://yoursite.com/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://footpad.netlify.com/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://yoursite.com/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://footpad.netlify.com/categories/tranquilpeak/features/"/>
     
     
-      <category term="japanese" scheme="http://yoursite.com/tags/japanese/"/>
+      <category term="japanese" scheme="http://footpad.netlify.com/tags/japanese/"/>
     
   </entry>
   
   <entry>
     <title>Hexo website</title>
-    <link href="http://yoursite.com/2012/04/13/link-post/"/>
-    <id>http://yoursite.com/2012/04/13/link-post/</id>
+    <link href="http://footpad.netlify.com/2012/04/13/link-post/"/>
+    <id>http://footpad.netlify.com/2012/04/13/link-post/</id>
     <published>2012-04-13T04:33:26.000Z</published>
     <updated>2016-03-12T11:31:17.000Z</updated>
     
@@ -537,9 +537,9 @@
     
     </summary>
     
-      <category term="tranquilpeak" scheme="http://yoursite.com/categories/tranquilpeak/"/>
+      <category term="tranquilpeak" scheme="http://footpad.netlify.com/categories/tranquilpeak/"/>
     
-      <category term="features" scheme="http://yoursite.com/categories/tranquilpeak/features/"/>
+      <category term="features" scheme="http://footpad.netlify.com/categories/tranquilpeak/features/"/>
     
     
   </entry>
