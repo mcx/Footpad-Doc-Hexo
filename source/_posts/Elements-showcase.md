@@ -7,6 +7,7 @@ categories:
 tags:
 - html elements
 - markdown
+- image gallery
 thumbnailImagePosition: left
 thumbnailImage: nowhite.png
 ---
