@@ -1,6 +1,6 @@
-title: "Characterization: Iterations"
+title: "Footpad Model"
 thumbnailImagePosition: left
-thumbnailImage: shoe.jpg
+thumbnailImage: shoe.png
 coverImage: http://d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 metaAlignment: center
 coverMeta: out
