@@ -1,5 +1,5 @@
 ---
-title: "Elements-showcase"
+title: "Footpad Sensors: Version II"
 date: 2015-05-28 20:30:05
 categories:
 - tranquilpeak
@@ -8,7 +8,7 @@ tags:
 - html elements
 - markdown
 thumbnailImagePosition: left
-thumbnailImage: http://d1u9biwaxjngwg.cloudfront.net/elements-showcase/vintage-140.jpg
+thumbnailImage: nowhite.png
 ---
 
 Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It's simple and elegant.
