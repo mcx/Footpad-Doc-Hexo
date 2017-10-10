@@ -11,6 +11,7 @@ thumbnailImagePosition: left
 thumbnailImage: nowhite.png
 ---
 
+
 Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It's simple and elegant.
 <!-- more -->
 
@@ -61,6 +62,18 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, b
 | Division 1 | Division 2 | Division 3 |
 | Division 1 | Division 2 | Division 3 |
 | Division 1 | Division 2 | Division 3 |
+
+
+## Photo Collection
+
+photos:
+- https://imgur.com/8hoiGnH.jpg "Front•View"
+- https://imgur.com/81evK1J.jpg "Side•View"
+- https://imgur.com/dJuOMZp.jpg "Back•View"
+
+
+
+
 
 ## Misc Stuff - abbr, acronym, sub, sup, etc.
 
