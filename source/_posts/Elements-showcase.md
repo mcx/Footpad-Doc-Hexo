@@ -67,7 +67,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, b
 
 ## Photo Collection
 
-{% image fancybox "Front•View" fig-100 https://imgur.com/8hoiGnH.jpg %}
+{% image fancybox https://imgur.com/8hoiGnH.jpg %}
 
 
 
