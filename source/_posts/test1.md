@@ -44,10 +44,12 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, b
 <dl><dt>Published Papers</dt><dd>nterdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, blandit eget felis aliquam,</dd></dl>
 
 
-| Paper Title | Year Published | Link |
-| - | - | - |
-| Division 1 | 2014 | {% pdf ./Footpad-Chuah.pdf %} |
-| Improved Normal and Shear Tactile Force Sensor Performance | 2016 | 07487123.pdf|
+- *PaperTitle* 20XX  {% pdf ./Footpad-Chuah.pdf %} 
+- *PaperTitle* 20XX {% pdf ./07487123.pdf %}|
+
+
+
+ 
 
 
 
