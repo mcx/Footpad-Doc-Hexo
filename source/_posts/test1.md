@@ -14,23 +14,22 @@ thumbnailImage: nowhite.png
 
 
 
-<br>Version II Sensors Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.</br>
 
-
-
-
-
-
-
-{% image fancybox fig-25 https://imgur.com/8hoiGnH.jpg "Front•View" %} 
+<p>{% image fancybox fig-25 https://imgur.com/8hoiGnH.jpg "Front•View" %} 
 {% image fancybox fig-25 https://imgur.com/81evK1J.jpg "Side•View" %}
-{% image fancybox fig-25 https://imgur.com/dJuOMZp.jpg "Back•View" %} 
+{% image fancybox fig-25 https://imgur.com/dJuOMZp.jpg "Back•View" %} <p>
 
 
 
 
 <p style="text-align: center;"> Collection of Version II Sensors </p>
 <!-- more -->
+
+
+
+
+<br>Version II Sensors Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.</br>
+
 
 
 ## Description
