@@ -22,9 +22,9 @@ thumbnailImage: nowhite.png
 
 
 
-{% image fancybox fig-33 https://imgur.com/8hoiGnH.jpg "Front•View" %} 
-{% image fancybox fig-33 https://imgur.com/81evK1J.jpg "Side•View" %}
-{% image fancybox fig-33 https://imgur.com/dJuOMZp.jpg "Back•View" %} 
+{% image fancybox fig-25 https://imgur.com/8hoiGnH.jpg "Front•View" %} 
+{% image fancybox fig-25 https://imgur.com/81evK1J.jpg "Side•View" %}
+{% image fancybox fig-25 https://imgur.com/dJuOMZp.jpg "Back•View" %} 
 
 
 
