@@ -19,17 +19,15 @@ thumbnailImage: nowhite.png
 
 
 <p>
-{% image fancybox fig-33 https://imgur.com/8hoiGnH.jpg "Front•View" %}
-{% image fancybox fig-33 https://imgur.com/81evK1J.jpg "Side•View" %}
-{% image fancybox fig-33 https://imgur.com/dJuOMZp.jpg "Back•View" %} </p>
+{% image fancybox fig-33 https://imgur.com/8hoiGnH.jpg "Front•View" %} </p>
+<p>{% image fancybox fig-33 https://imgur.com/81evK1J.jpg "Side•View" %} </p>
+<p>{% image fancybox fig-33 https://imgur.com/dJuOMZp.jpg "Back•View" %} </p>
 
 
 
 
 <p style="text-align: center;"> Collection of Version II Sensors </p>
 <!-- more -->
-
-
 
 
 ## Description
