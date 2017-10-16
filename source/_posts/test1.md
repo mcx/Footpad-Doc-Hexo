@@ -5,8 +5,8 @@ categories:
 - tranquilpeak
 - features
 tags:
-- html elements
-- markdown
+- Version II
+- Footpad
 - image gallery
 thumbnailImagePosition: left
 thumbnailImage: nowhite.png
