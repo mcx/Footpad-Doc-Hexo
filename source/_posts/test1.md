@@ -14,13 +14,15 @@ thumbnailImage: nowhite.png
 
 
 
-Version II Sensors Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.
+<br>Version II Sensors Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.</br>
 
 
+
+<br>
 {% image fancybox fig-33 https://imgur.com/8hoiGnH.jpg "Front•View" %}
 {% image fancybox fig-33 https://imgur.com/81evK1J.jpg "Side•View" %}
 {% image fancybox fig-33 https://imgur.com/dJuOMZp.jpg "Back•View" %}
-{% image fancybox fig-25 https://imgur.com/6rY6tYa,jpg %}
+</br>
 
 
 
@@ -45,7 +47,7 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. `Sed erat diam`, b
 | Paper Title | Year Published | Link |
 | - | - | - |
 | Division 1 | 2014 | {% pdf ./Footpad-Chuah.pdf %} |
-| Improved Normal and Shear Tactile Force Sensor Performance | 2016 | {% pdf ./07487123.pdf %}|
+| Improved Normal and Shear Tactile Force Sensor Performance | 2016 | 07487123.pdf|
 
 
 
